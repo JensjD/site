@@ -1,0 +1,15 @@
+html {
+    font-family: "dejarip-1","dejarip-2",sans-serif;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+}
+
+#title {
+    margin:0;
+    padding: 30px;
+    background-color: #123;
+}

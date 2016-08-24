@@ -1,0 +1,31 @@
+nav {
+    background-color: #333;
+    margin: 0;
+    overflow: hidden;
+}
+nav .topnav {
+    margin: 0;
+    padding: 0;
+}
+
+nav .topnav li { 
+    display: inline-block;
+    list-style-type: none;
+}
+
+nav > ul > li > a {
+    color: #aaa;
+    background-color: #ff0;
+    display: block;
+    line-height: 2em;
+    padding: 0.5em 0.5em;
+    text-decoration: none;
+}
+nav > ul > li > a:hover {
+    color: #ff0;
+    background-color: #333;
+    display: block;
+    line-height: 2em;
+    padding: 0.5em 0.5em;
+    text-decoration: none;
+}
